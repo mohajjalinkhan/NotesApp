@@ -23,17 +23,17 @@ NotesApp is a simple and efficient note-taking application built using **React N
 - **screenshots**
 ## Android & IOS
 - home Screen
- ![Screenshot 2025-02-23 at 4 51 51 PM](https://github.com/user-attachments/assets/f10005c7-d522-4f70-ab0a-9c54e88c45d6)
+- ![Screenshot 2025-02-23 at 4 51 51 PM](https://github.com/user-attachments/assets/f10005c7-d522-4f70-ab0a-9c54e88c45d6)
 - add screen
- ![Screenshot 2025-02-23 at 4 49 06 PM](https://github.com/user-attachments/assets/1762987f-9c79-4496-bd65-da240f35dcff)
+- ![Screenshot 2025-02-23 at 4 49 06 PM](https://github.com/user-attachments/assets/1762987f-9c79-4496-bd65-da240f35dcff)
 - added notes screen
- ![Screenshot 2025-02-23 at 4 49 22 PM](https://github.com/user-attachments/assets/4183aefe-0fb9-4301-b063-1959d44df7f4)
+- ![Screenshot 2025-02-23 at 4 49 22 PM](https://github.com/user-attachments/assets/4183aefe-0fb9-4301-b063-1959d44df7f4)
 - update note screen
- ![Screenshot 2025-02-23 at 4 51 09 PM](https://github.com/user-attachments/assets/4792dd86-f1a3-4df1-ae1a-c79c3ebc550a)
+- ![Screenshot 2025-02-23 at 4 51 09 PM](https://github.com/user-attachments/assets/4792dd86-f1a3-4df1-ae1a-c79c3ebc550a)
 - updated screens
- ![Screenshot 2025-02-23 at 4 51 20 PM](https://github.com/user-attachments/assets/fc7dbfaa-509f-4dd5-9831-3d269fdc9f6e)
+- ![Screenshot 2025-02-23 at 4 51 20 PM](https://github.com/user-attachments/assets/fc7dbfaa-509f-4dd5-9831-3d269fdc9f6e)
 - deleted notes screens
- ![Screenshot 2025-02-23 at 4 51 41 PM](https://github.com/user-attachments/assets/c6e4a836-bb53-4ec0-a384-858524ae8dae)
+- ![Screenshot 2025-02-23 at 4 51 41 PM](https://github.com/user-attachments/assets/c6e4a836-bb53-4ec0-a384-858524ae8dae)
 
 
 
